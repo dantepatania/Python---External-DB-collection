@@ -80,7 +80,7 @@ def create_informacion(df):
     df = df[['cod_localidad', 'id_provincia', 'id_departamento', 'categoria', 'provincia',
                 'localidad', 'nombre', 'domicilio', 'codigo_postal', 'telefono', 'mail', 'web', 'fecha_carga']]
 
-    logging.info('"INFORMATION" table created')
+    logging.info('"INFORMACION" table created')
     return df
 
 
