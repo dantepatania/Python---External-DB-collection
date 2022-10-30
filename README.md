@@ -4,7 +4,7 @@ Author: Dante Patania
 
 ## Objective
 
-This project consumes data from three diferent sources in order to populate a SQL database with cultural information about librarys, museums and cinemas from Argentina. 
+This project consumes data from three diferent sources in order to populate a SQL database with cultural information about libraries, museums and cinemas from Argentina. 
 
 ### Deploy
 
