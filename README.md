@@ -36,8 +36,8 @@ This project consumes data from three diferent sources in order to populate a SQ
   
 ### Running
 
-    Run the following command. 
+      Run the following command. 
 
-   `py main.py`
+    `py main.py`
    
-    In *file.log* file you will find execution steps.
+      In *file.log* file you will find execution steps.
