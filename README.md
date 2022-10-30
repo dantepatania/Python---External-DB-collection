@@ -16,7 +16,7 @@ This project consumes data from three diferent sources in order to populate a SQ
   
     `source <venv name>/scripts/activate`
     
- 2) Install all necessary modules, you may use pip tool for this step.
+2) Install all necessary modules, you may use pip tool for this step.
 
     `pip3 install <module>`
   
@@ -24,20 +24,20 @@ This project consumes data from three diferent sources in order to populate a SQ
 
     `pip3 install -r requirements.txt`
     
- 3) A PostgreSQL database creation is needed, once done you must keep the following parameters in order to set *.env* file.
+3) A PostgreSQL database creation is needed, once done you must keep the following parameters in order to set *.env* file.
   
       `host, user, password, name, port`
       
- 4) Complete *.env* file with previous parameters from the database created and datasets download **URL**. You must check URLs work properly. 
+4) Complete *.env* file with previous parameters from the database created and datasets download **URL**. You must check URLs work properly. 
   
- 5) Create database tables with the following command. 
+5) Create database tables with the following command. 
   
     `py create_tables.py`
   
 ### Running
 
-      Run the following command. 
+Run the following command. 
 
     `py main.py`
    
-      In *file.log* file you will find execution steps.
+In *file.log* file you will find execution steps.
